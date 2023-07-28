@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Scripts",
+    "\\Assets\\Scripts\\Camera",
+    "\\Assets\\Scripts\\Light",
+    "\\Assets\\Scripts\\Ray caster",
+    "\\Assets\\Scripts\\Simulation"
+  ],
+  "SelectedNode": "\\Assets\\Scripts\\Ray caster\\ClickDetection.cs",
+  "PreviewInSolutionExplorer": false
+}
